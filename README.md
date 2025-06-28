@@ -6,7 +6,7 @@
 </p>
 
 ## 🌐 Live Preview
-Visit Website (https://github.com/lyneyy/fmonet-website.git)
+Visit Website (https://github.com/lyneyy/monet-website.git)
 
 ## 🖼️ Preview
 <p>
