@@ -13,4 +13,4 @@ Visit Website (https://github.com/lyneyy/fmonet-website.git)
 This is a visual preview of the Musée Marmottan Monet website project. Designed with soft, elegant tones and an emphasis on visual harmony, the layout reflects the serene and artistic atmosphere of the museum itself. 
 </p>
 
-![Website Preview](html/monet-welcome.png)
+![Website Preview](./monet-welcome.png)
